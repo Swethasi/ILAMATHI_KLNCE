@@ -1,2 +1,2 @@
-# ILAMATHI_KLNCE
+# Personal To-Do List Manager
 Ei Study code exercise
